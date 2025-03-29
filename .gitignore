@@ -8,9 +8,6 @@ __pycache__/
 *.out
 *.exe
 
-# Ignore wordlists (optional, if you don’t want to include them in the repo)
-wordlist.txt
-
 # Ignore system files
 .DS_Store
 .vscode/
